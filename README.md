@@ -5,21 +5,20 @@ News app built using swift ui and MVVM architecture and the news.org api. It fet
  Other categories may be added to it if the api is vastlty used
  
 
-## Home page
-<img src = "NewsAppSwiftUI/scrnShots/home.png" width = 500></img>
+## Home 
+<div>
+<img src = "NewsAppSwiftUI/scrnShots/home.png" width="370px" height="750px" hspace="30">
+<img src = "NewsAppSwiftUI/scrnShots/categories.png" width="370px" height="750px">
+</div>
 
-## Categories
-<img src = ""NewsAppSwiftUI/scrnShots/categories.png"" width = 500></img>
+## Search 
+<div>
+<img src = "NewsAppSwiftUI/scrnShots/search.png" width="370px" height="750px" hspace="30">
+<img src = "NewsAppSwiftUI/scrnShots/results.png" width="370px" height="750px">
+</div>
 
-## Search view
-<img src = "NewsAppSwiftUI/scrnShots/search.png" width = 500></img>
-
-
-## Search results
-<img src = "NewsAppSwiftUI/scrnShots/results.png" width = 500></img>
-
-## Bookmark view
-<img src = "NewsAppSwiftUI/scrnShots/emptyBookmark.png" width = 500></img>
-
-## Added Bookmark
-<img src = "NewsAppSwiftUI/scrnShots/bookmark.png" width = 500></img>
+## Bookmarks
+<div>
+<img src = "NewsAppSwiftUI/scrnShots/emptyBookmark.png" width="370px" height="750px" hspace="30">
+<img src = "NewsAppSwiftUI/scrnShots/bookmark.png" width="370px" height="750px">
+</div>
