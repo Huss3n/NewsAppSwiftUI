@@ -36,22 +36,22 @@ struct SafariView: UIViewControllerRepresentable {
 
 ```
 ## Home 
-<div>
-<img src = "NewsAppSwiftUI/scrnShots/home.png" width="370px" height="750px" hspace="30">
-<img src = "NewsAppSwiftUI/scrnShots/categories.png" width="370px" height="750px">
-</div>
+<p>
+<img src = "NewsAppSwiftUI/scrnShots/home.png" width="200" hspace="30">
+<img src = "NewsAppSwiftUI/scrnShots/categories.png" width="200">
+</p>
 
 ## Search 
-<div>
-<img src = "NewsAppSwiftUI/scrnShots/search.png" width="370px" height="750px" hspace="30">
-<img src = "NewsAppSwiftUI/scrnShots/results.png" width="370px" height="750px">
-</div>
+<p>
+<img src = "NewsAppSwiftUI/scrnShots/search.png" width="200" hspace="30">
+<img src = "NewsAppSwiftUI/scrnShots/results.png" width="200">
+</p>
 
 ## Bookmarks
-<div>
-<img src = "NewsAppSwiftUI/scrnShots/emptyBookmark.png" width="370px" height="750px" hspace="30">
-<img src = "NewsAppSwiftUI/scrnShots/bookmark.png" width="370px" height="750px">
-</div>
+<p>
+<img src = "NewsAppSwiftUI/scrnShots/emptyBookmark.png" width="200" hspace="30">
+<img src = "NewsAppSwiftUI/scrnShots/bookmark.png" width="200">
+</p>
 
 ## Tools and Frameworks
 - SwiftUI: Declarative UI framework for building robust and interactive user interfaces.
